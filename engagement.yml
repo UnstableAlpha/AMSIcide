@@ -1,0 +1,14 @@
+engagement:
+  client_id: TEST
+  domain: null
+  hostname: null
+
+bypass:
+  xor_key: 1339
+  string_method: xor
+  field_target: initfailed
+  junk_var_count: 3
+
+obfuscation:
+  var_prefix: tmp
+  case_randomise: true
